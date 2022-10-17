@@ -60,7 +60,7 @@ The edge version is useful for experimenting with new features that are not yet 
 To use the Ingress Controller, you need to have access to:
 * An Ingress Controller image.
 * Installation manifests or a Helm chart.
-* Documentation and examples.
+* Documentation and examples. CHANGE2
 
 It is important that the versions of those things above match.
 
