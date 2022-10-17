@@ -9,7 +9,7 @@ This repo provides an implementation of an Ingress Controller for NGINX and NGIN
 
 **Note**: this project is different from the NGINX Ingress Controller in [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) repo. See [this doc](https://docs.nginx.com/nginx-ingress-controller/intro/nginx-ingress-controllers) to find out about the key differences.
 
-## What is the Ingress?
+## What is the Ingress? CHANGE
 
 The Ingress is a Kubernetes resource that lets you configure an HTTP load balancer for applications running on Kubernetes, represented by one or more [Services](https://kubernetes.io/docs/concepts/services-networking/service/). Such a load balancer is necessary to deliver those applications to clients outside of the Kubernetes cluster.
 
